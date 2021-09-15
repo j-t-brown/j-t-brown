@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @j-t-brown
+- 👋 Hi, I’m Thomas Brown, a Biomedical Informatics PhD student at Vanderbilt University.
 - 👀 I’m interested in de-identificiation and machine learning in the healthcare space.
 - 🌱 I’m currently investigating the fairness of privacy protections.
 - 💞️ I’m looking to collaborate on developing fair privacy models.
