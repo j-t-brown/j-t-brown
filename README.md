@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Thomas Brown, a Biomedical Informatics PhD student at Vanderbilt University.
-- 👀 I’m interested in data privacy and machine learning in the healthcare space.
+- 👀 I’m interested in data privacy and machine learning in biomedicine.
 - 🌱 I’m currently investigating the fairness of privacy protections.
 - 💞️ I’m looking to collaborate on developing fair privacy models.
 - 📫 You can reach me at jthomasbrown1@gmail.com or james.t.brown@Vanderbilt.Edu
